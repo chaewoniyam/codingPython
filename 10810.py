@@ -7,6 +7,3 @@ for u in range(M):
         Nlist[num] = k
 
 print(*Nlist)
-
-
-
